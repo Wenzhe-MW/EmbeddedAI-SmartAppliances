@@ -1,7 +1,7 @@
-  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Brenda-MW/EmbeddedAI-SmartAppliances)
+  [![Open in MATLAB Online]https://matlab.mathworks.com/open/github/v1?repo=Wenzhe-MW/EmbeddedAI-SmartAppliances
 
 # Hands-On AI for Smart Appliances: From Sensor Data to Embedded Code
-Curious how AI powers smart appliances? Join our hands-on workshop to turn sensor data into deployable embedded code for IoT, automotive, robotics, and more. Build efficient AI at #MATLABEXPO!
+Curious how AI powers smart appliances? Join our hands-on workshop to turn sensor data into deployable embedded code for IoT, automotive, robotics, and more. Build efficient AI with  MATLAB® and Simulink® products.
 
 In this hands-on workshop, engineers and developers will master a streamlined workflow for deploying artificial intelligence on resource-constrained embedded systems. Using a relatable smart home appliance application (e.g., washing machine load imbalance detection) as a practical case study, see how the presented principles and methodologies are directly applicable to a wide array of sensor-driven systems, including industrial IoT, automotive applications, robotics, wearable technology, and other fields where efficient, on-device AI is critical.
 
@@ -18,4 +18,5 @@ This session emphasizes a hardware-aware approach, enabling engineers to rapidly
 - MATLAB Coder™
 - Simulink Coder™
 - Fixed-Point Designer™
-
+- Statistics and Machine Learning Toolbox™ (Optional)
+- Predictive Maintenance Toolbox™ (Optional)
